@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Trevor! </h1>
+
+<h2>👨‍💻 I.T Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Active Directory Setup using Virtual Machines](link to project)
+  - [Network Security Groups setup and Inspecting Network Protocols with Wireshark](link to project)
+- <b>osTicket: Homelab Ticketing System for Help Desk</b>
+  - [osTicket: Installation](link to project)
+  - [osTicket: Installation Configuration](link to project)
+  - [osTicket: Ticketing Examples](link to project)
+- <b>Virtual Private Network(VPN)</b>
+  - [Setting up VPN in Virtual Machine](link to project)
+
 
 <!--
-**tbeard92/tbeard92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
