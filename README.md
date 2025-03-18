@@ -10,7 +10,7 @@
   - [osTicket: Installation Configuration](https://github.com/tbeard92/osticketinstall)
   - [osTicket: Ticketing Examples](https://github.com/tbeard92/osticketing/tree/main)
 - <b>Virtual Private Network(VPN)</b>
-  - [Setting up VPN in Virtual Machine](link to project)
+  - [Setting up VPN in Virtual Machine](https://github.com/tbeard92/VPN/tree/main)
 
 
 <!--
