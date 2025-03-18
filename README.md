@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Active Directory Setup using Virtual Machines](https://github.com/tbeard92/ADVM/tree/main)
-  - [Network Security Groups setup and Inspecting Network Protocols with Wireshark](link to project)
+  - [Network Security Groups setup and Inspecting Network Protocols with Wireshark](https://github.com/tbeard92/ADwireshark/tree/main)
 - <b>osTicket: Homelab Ticketing System for Help Desk</b>
   - [osTicket: Installation](https://github.com/tbeard92/osticketinstall/tree/main)
   - [osTicket: Installation Configuration](https://github.com/tbeard92/osticketinstall)
