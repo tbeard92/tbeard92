@@ -6,7 +6,7 @@
   - [Active Directory Setup using Virtual Machines](link to project)
   - [Network Security Groups setup and Inspecting Network Protocols with Wireshark](link to project)
 - <b>osTicket: Homelab Ticketing System for Help Desk</b>
-  - [osTicket: Installation](link to project)
+  - [osTicket: Installation]([https://github.com/tbeard92/osticketinstall/tree/main])
   - [osTicket: Installation Configuration](link to project)
   - [osTicket: Ticketing Examples](link to project)
 - <b>Virtual Private Network(VPN)</b>
