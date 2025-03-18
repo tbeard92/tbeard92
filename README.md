@@ -7,7 +7,7 @@
   - [Network Security Groups setup and Inspecting Network Protocols with Wireshark](link to project)
 - <b>osTicket: Homelab Ticketing System for Help Desk</b>
   - [osTicket: Installation](https://github.com/tbeard92/osticketinstall/tree/main)
-  - [osTicket: Installation Configuration](link to project)
+  - [osTicket: Installation Configuration](https://github.com/tbeard92/osticketinstall)
   - [osTicket: Ticketing Examples](link to project)
 - <b>Virtual Private Network(VPN)</b>
   - [Setting up VPN in Virtual Machine](link to project)
