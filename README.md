@@ -3,7 +3,7 @@
 <h2>👨‍💻 I.T Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Active Directory Setup using Virtual Machines](link to project)
+  - [Active Directory Setup using Virtual Machines](https://github.com/tbeard92/ADVM/tree/main)
   - [Network Security Groups setup and Inspecting Network Protocols with Wireshark](link to project)
 - <b>osTicket: Homelab Ticketing System for Help Desk</b>
   - [osTicket: Installation](https://github.com/tbeard92/osticketinstall/tree/main)
